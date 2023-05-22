@@ -12,4 +12,5 @@ public class HomeActivity extends AppCompatActivity {
         setContentView(R.layout.activity_home);
     }
     //anh yeu Mach Nhung
+    //anh yeu Mach Nhung 2
 }

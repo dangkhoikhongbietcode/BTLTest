@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast toast = Toast.makeText(getApplicationContext(),"NOT OK", Toast.LENGTH_SHORT);
                     toast.show();
                 }
-
+            // dm quang
             }
         });
     }

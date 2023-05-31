@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
                     toast.show();
                 }
             // dm quang
+                //dmm long ngu
             }
         });
     }
